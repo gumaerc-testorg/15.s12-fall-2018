@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Session 14: Payments, Part 2'
 uid: 3c0ad40d-a229-4afd-6b8c-abf9f478b661
 video_files:
   archive_url: https://archive.org/download/MIT15.S12F18/MIT15_S12F18_lec14_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/15-s12-blockchain-and-money-fall-2018/a251fb6cad385a159785c6954cb2d719_Ycy0Dy-B1c.vtt
+  video_captions_file: /courses/15-s12-blockchain-and-money-fall-2018/a251fb6cad385a159785c6954cb2d719_Ycy0Dy-B1c.vtt
   video_thumbnail_file: https://img.youtube.com/vi/_Ycy0Dy-B1c/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/15-s12-blockchain-and-money-fall-2018/0719d7350db1366b1f194aed581b2eec_Ycy0Dy-B1c.pdf
+  video_transcript_file: /courses/15-s12-blockchain-and-money-fall-2018/0719d7350db1366b1f194aed581b2eec_Ycy0Dy-B1c.pdf
 video_metadata:
   youtube_id: _Ycy0Dy-B1c
 ---

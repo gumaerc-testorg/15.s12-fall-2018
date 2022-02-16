@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-s12-blockchain-and-money-fall-2018/fa1e4fa6284a5f1f8d8fe26a8cd85328_DsSzQfejwMk.vtt
+file: /media/courses/15-s12-blockchain-and-money-fall-2018/fa1e4fa6284a5f1f8d8fe26a8cd85328_DsSzQfejwMk.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: fa1e4fa6-284a-5f1f-8d8f-e26a8cd85328

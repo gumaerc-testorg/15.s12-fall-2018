@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 13: Payments, Part 1'
 uid: 466c55d6-1a6e-350a-2057-5d0f8f6eea05
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 Prof. Gensler discusses major trends in payment systems, lessons that can be learned from non-blockchain payment innovations, and the challenges and opportunities in current payment system architecture.
 
 **Instructors**: Prof. Gary Gensler & Alin Dragos
+
+
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains information about the logistics of the course. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -73,7 +74,7 @@ Class Participation
 
 {{< tableclose >}}
 
-For more information, see the [Assignments section]({{< baseurl >}}/pages/assignments). 
+For more information, see the {{% resource_link 33fc74a9-d599-a6e5-10b3-1ef819d893e6 "Assignments section" %}}. 
 
 Readings and Study Questions
 ----------------------------

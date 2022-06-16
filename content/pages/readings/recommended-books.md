@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains additional readings of interest. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

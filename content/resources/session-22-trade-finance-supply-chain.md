@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 22: Trade Finance & Supply Chain'
 uid: c91ce854-a636-0d00-f1ce-f5dc704f71e0
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 Prof. Gensler explores trade finance, its attributes, and the significant activity of blockchain technology behind it.
+
+
+

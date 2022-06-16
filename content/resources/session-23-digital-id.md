@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 23: Digital ID'
 uid: 751caaa3-3340-df76-89f1-714892a4a327
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 Prof. Gensler speaks about identity and access management, how identity management works in a digital age, state projects in India and Estonia, and some blockchain projects in the private sector.
+
+
+

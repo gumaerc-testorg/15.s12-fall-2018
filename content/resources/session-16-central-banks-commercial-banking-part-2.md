@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 16: Central Banks & Commercial Banking, Part 2'
 uid: 8fbbc4ac-bf78-83fa-4061-9e7374aebe4b
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 Prof. Gary Gensler continues the discussion about central banks and commercial banking by talking about private banknotes and stable value tokens, and central bank digital currency .
+
+
+

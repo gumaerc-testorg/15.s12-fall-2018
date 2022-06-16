@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 21: Post Trade Clearing, Settlement, & Processing '
 uid: 56f51f1e-92a8-38cc-ad4e-9e774840242a
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 Prof. Gensler leads a discussion on clearing and settlement systems, blockchain technology applicability, and blockchain technology projects.
+
+
+

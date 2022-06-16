@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 5: Blockchain Basics and Transactions, UTXO, and Script Code'
 uid: 35867dc2-4737-3a0a-52dc-e9cf7327b4a8
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 This session covers design featues of blockchain, like hash functions, append-only timestamped logs, and proof-of-work. The professor also covers unspent transcation output (UTXO).
+
+
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 15: Central Banks & Commercial Banking, Part 1'
 uid: 26a892fe-322d-a27b-44f1-686a63397176
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 In this lecture, the class discusses a number of topics related to central banking, including fiat currencies, how central banks approach blockchain technology, and payment systems and different blockchain initiatives.
 
 **Instructors**: Prof. Gary Gensler & Robleh Ali
+
+
+

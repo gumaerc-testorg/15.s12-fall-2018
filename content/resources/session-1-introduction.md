@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 1: Introduction'
 uid: 3ce505af-0092-e9d2-73a9-933945ece1f2
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 In this video, Prof. Gary Gensler provides an introduction to the course and to blockchain technology.
+
+
+

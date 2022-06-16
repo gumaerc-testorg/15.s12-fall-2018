@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 10: Financial System Challenges and Opportunities'
 uid: 70135194-101d-40e8-1c5e-1859873ac3fe
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 This lecture describes three aspects of finance: financial institutions, regulation, and technology. Also covered is risk management and opportunities in the blockchain field.
+
+
+

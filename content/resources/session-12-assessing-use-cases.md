@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 12: Assessing Use Cases'
 uid: 9e10007c-e2c1-be14-18af-b5d1fd8b3f1c
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 In this lecture, Prof. Gensler talks about how to assess the costs and benefits of any potential use cases.
+
+
+

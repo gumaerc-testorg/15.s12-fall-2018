@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 6: Smart Contracts and DApps'
 uid: 8dd32d45-d9ac-ee0b-aefa-3cdad290973e
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 This session covers smart contracts, blockchain design, Dapps, and tokens. Harvard professor Lawrence Lessig explains the legal issues of smart contracts.
 
 **Instructors**: Prof. Gary Gensler and Prof. Lawrence Lessig
+
+
+

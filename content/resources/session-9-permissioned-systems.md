@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 9: Permissioned Systems'
 uid: 478519b1-d739-af6a-4a68-aa2a2567acf7
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 In this lecture, Prof. Gensler discusses permissioned or private distributed ledger technology.
+
+
+

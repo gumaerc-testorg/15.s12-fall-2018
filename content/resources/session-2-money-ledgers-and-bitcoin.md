@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 2: Money, Ledgers, and Bitcoin'
 uid: 84437aa7-a7da-ef46-9f27-2b0707fed5bf
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 In this lecture, Prof. Gensler discusses the history of money, ledgers, fiat currency, central banking, early digital money, and mobile payments.
+
+
+

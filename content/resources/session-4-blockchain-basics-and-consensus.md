@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 4: Blockchain Basics and Consensus'
 uid: e2d31e91-2bfe-2316-c607-e54255b4c12c
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 This lecture covers blockchain consensus protocols. Because of the decentralized nature of blockchain technology, it is crucial that consensus protocols are used to require that the nodes on the network agree on the same state of a blockchain.
+
+
+

@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 20: Primary Markets, ICOs, & Venture Capital, Part 2'
 uid: bd53a3d2-b55a-e7ae-33cb-fc4c95e9bfc1
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 Prof. Gensler continues the discussion about Initial Coin Offerings (ICOs), focusing on the markets and regulations for ICOs.
+
+
+

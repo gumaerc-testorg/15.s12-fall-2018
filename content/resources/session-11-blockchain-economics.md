@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 11: Blockchain Economics'
 uid: ec94ca21-7373-2d64-3901-9b265bb5529f
 video_files:
@@ -25,3 +28,6 @@ video_metadata:
 In this video, Prof. Gary Gensler discusses the economics of blockchain, blockchain vs. the Internet, blockchain minimalists, and costs and trade-offs.
 
 **Instructors**: Prof. Gary Gensler & Rob Gensler
+
+
+

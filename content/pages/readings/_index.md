@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section details the readings used in each session. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +33,7 @@ Readings
 
 Introduction
 
-[Session 1 study questions]({{< baseurl >}}/pages/study-questions#ses1)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 1 study questions" "#ses1" %}}
 
 
 {{< tdclose >}}
@@ -56,7 +57,7 @@ Introduction
 
 Money, Ledgers & Bitcoin
 
-[Session 2 study questions]({{< baseurl >}}/pages/study-questions#ses2)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 2 study questions" "#ses2" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +72,7 @@ Money, Ledgers & Bitcoin
 
 '[A Brief History of Ledgers](https://medium.com/unraveling-the-ouroboros/a-brief-history-of-ledgers-b6ab84a7ff41)' LLFOURN, Medium (February 15, 2018)
 
-‘![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bitcoin and Cryptocurrency Technologies, Preface — The Long Road to Bitcoin’ (PDF - 18MB)](http://lopp.net/pdf/princeton_bitcoin_book.pdf) Clark (pages 3 – 21) (February 9, 2016)
+‘[Bitcoin and Cryptocurrency Technologies, Preface — The Long Road to Bitcoin’ (PDF - 18MB)](http://lopp.net/pdf/princeton_bitcoin_book.pdf) Clark (pages 3 – 21) (February 9, 2016)
 
 ‘[Bitcoin P2P e-cash paper](https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html)’ e-mail Nakamoto (October 31, 2008)
 
@@ -88,14 +89,14 @@ Money, Ledgers & Bitcoin
 
 Blockchain Basics & Cryptography
 
-[Session 3 study questions]({{< baseurl >}}/pages/study-questions#ses3)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 3 study questions" "#ses3" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-‘![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Bitcoin: A Peer-to-Peer Electronic Cash System’ (PDF)](https://bitcoin.org/bitcoin.pdf) Nakamoto (October 31, 2008)
+‘[Bitcoin: A Peer-to-Peer Electronic Cash System’ (PDF)](https://bitcoin.org/bitcoin.pdf) Nakamoto (October 31, 2008)
 
 ‘[Blockchain Technology Overview’ (PDF)](https://csrc.nist.gov/CSRC/media/Publications/nistir/8202/draft/documents/nistir8202-draft.pdf) National Institute of Standards and Technology (January 2018)  (pages 9 – 23, sections 1 & 2)
 
@@ -114,7 +115,7 @@ Blockchain Basics & Cryptography
 
 Blockchain Basics & Consensus
 
-[Session 4 study questions]({{< baseurl >}}/pages/study-questions#ses4)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 4 study questions" "#ses4" %}}
 
 
 {{< tdclose >}}
@@ -147,7 +148,7 @@ by Bitcore or ['The Best Step-by-Step Bitcoin Script Guide](https://blockgeeks.c
 
 Blockchain Basics and Transactions, UTXO, and Script Code
 
-[Session 5 study questions]({{< baseurl >}}/pages/study-questions#ses5)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 5 study questions" "#ses5" %}}
 
 
 {{< tdclose >}}
@@ -171,14 +172,14 @@ Blockchain Basics and Transactions, UTXO, and Script Code
 
 Smart Contracts & DApps
 
-[Session 6 study questions]({{< baseurl >}}/pages/study-questions#ses6)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 6 study questions" "#ses6" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-‘![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Smart Contracts: 12 Use Cases for Business & Beyond’Chamber of Digital Commerce' (PDF - 5.9MB)](https://digitalchamber.org/wp-content/uploads/2018/02/Smart-Contracts-12-Use-Cases-for-Business-and-Beyond_Chamber-of-Digital-Commerce.pdf) (December 2016)
+‘[Smart Contracts: 12 Use Cases for Business & Beyond’Chamber of Digital Commerce' (PDF - 5.9MB)](https://digitalchamber.org/wp-content/uploads/2018/02/Smart-Contracts-12-Use-Cases-for-Business-and-Beyond_Chamber-of-Digital-Commerce.pdf) (December 2016)
 
 ‘[State of the DApps: 5 Observations from Usage Data](https://medium.com/@mccannatron/state-of-the-dapps-5-observations-from-usage-data-april-2018-a3e9da01bc22)’ McCann, Medium (April 2018)
 
@@ -205,7 +206,7 @@ Optional Readings:
 
 Technical Challenges
 
-[Session 7 study questions]({{< baseurl >}}/pages/study-questions#ses7)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 7 study questions" "#ses7" %}}
 
 
 {{< tdclose >}}
@@ -241,7 +242,7 @@ Optional Readings:
 
 Public Policy
 
-[Session 8 study questions]({{< baseurl >}}/pages/study-questions#ses8)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 8 study questions" "#ses8" %}}
 
 
 {{< tdclose >}}
@@ -267,7 +268,7 @@ Public Policy
 
 Permissioned Systems
 
-[Session 9 study questions]({{< baseurl >}}/pages/study-questions#ses9)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 9 study questions" "#ses9" %}}
 
 
 {{< tdclose >}}
@@ -297,18 +298,18 @@ Permissioned Systems
 
 Financial System Challenges & Opportunities
 
-[Session 10 study questions]({{< baseurl >}}/pages/study-questions#ses10)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 10 study questions" "#ses10" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)'[Top financial services issues of 2018' (PDF - 1.2MB)](https://www.pwc.com/us/en/financial-services/research-institute/assets/pwc-fsi-top-issues-2018.pdf) PwC Financial Services Institute (December 2017)
+'[Top financial services issues of 2018' (PDF - 1.2MB)](https://www.pwc.com/us/en/financial-services/research-institute/assets/pwc-fsi-top-issues-2018.pdf) PwC Financial Services Institute (December 2017)
 
 '[Sheila Bair on What Hasn’t Changed Since the Great Recession](http://nymag.com/intelligencer/2018/08/sheila-bair-on-what-hasnt-changed-since-the-great-recession.html)' New York Magazine, Daily Intelligencer (August 9, 2018)
 
-‘![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Rise of Market Concentration and Rent Seeking in the Financial Sector’ (PDF)](http://www.law.harvard.edu/programs/olin_center/fellows_papers/pdf/Zhang_72.pdf) Zhang; Harvard (April 2017) (Required pages 2 –5, 24 –26)
+‘[The Rise of Market Concentration and Rent Seeking in the Financial Sector’ (PDF)](http://www.law.harvard.edu/programs/olin_center/fellows_papers/pdf/Zhang_72.pdf) Zhang; Harvard (April 2017) (Required pages 2 –5, 24 –26)
 
 Optional Reading:
 
@@ -327,7 +328,7 @@ Optional Reading:
 
 Blockchain Economics
 
-[Session 11 study questions]({{< baseurl >}}/pages/study-questions#ses11)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 11 study questions" "#ses11" %}}
 
 
 {{< tdclose >}}
@@ -346,7 +347,7 @@ Blockchain Economics
 
 Optional Readings:
 
-'![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Economic Limits of Bitcoin and the Blockchain' (PDF)](https://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf) Budish, University of Chicago (June 5, 2018)
+'[The Economic Limits of Bitcoin and the Blockchain' (PDF)](https://faculty.chicagobooth.edu/eric.budish/research/Economic-Limits-Bitcoin-Blockchain.pdf) Budish, University of Chicago (June 5, 2018)
 
 ‘[Valuing Bitcoin and Ethereum with Metcalfe’s Law](https://medium.com/@clearblocks/valuing-bitcoin-and-ethereum-with-metcalfes-law-aaa743f469f6)’ Clearblocks, Medium (February 13, 2018)
 
@@ -365,7 +366,7 @@ Optional Readings:
 
 Assessing Use Cases
 
-[Session 12 study questions]({{< baseurl >}}/pages/study-questions#ses12)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 12 study questions" "#ses12" %}}
 
 
 {{< tdclose >}}
@@ -376,7 +377,7 @@ Assessing Use Cases
 
 '[Blockchain beyond the hype: What is the strategic business value?](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/blockchain-beyond-the-hype-what-is-the-strategic-business-value?cid=other-eml-nsl-mip-mck-oth-1807&hlkid=8ca56a40fe474c7497e74038a1f43fe7&hctky=10252093&hdpid=bb9f89f0-458b-4b4e-a1ee-ad99e602294e)' McKinsey (June 2018)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)'[A Letter to Jamie Dimon' (PDF - 1.1MB)](http://www.ceresaig.com/wp-content/uploads/2017/11/A-Letter-to-JP-Morgan-Jamie-Dimon-%E2%80%93-Block-Chain-Crypto-FX.pdf) Chain (October 16, 2017)
+'[A Letter to Jamie Dimon' (PDF - 1.1MB)](http://www.ceresaig.com/wp-content/uploads/2017/11/A-Letter-to-JP-Morgan-Jamie-Dimon-%E2%80%93-Block-Chain-Crypto-FX.pdf) Chain (October 16, 2017)
 
 '[The promise of the blockchain technology](https://www.economist.com/technology-quarterly/2018/08/30/the-promise-of-the-blockchain-technology)' Economist (September 1, 2018)
 
@@ -393,7 +394,7 @@ Assessing Use Cases
 
 Payments, Part 1
 
-[Session 13 study questions]({{< baseurl >}}/pages/study-questions#ses13)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 13 study questions" "#ses13" %}}
 
 
 {{< tdclose >}}
@@ -425,7 +426,7 @@ Payments, Part 1
 
 Payments, Part 2
 
-[Session 14 study questions]({{< baseurl >}}/pages/study-questions#ses14)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 14 study questions" "#ses14" %}}
 
 
 {{< tdclose >}}
@@ -455,7 +456,7 @@ Payments, Part 2
 
 Central Banks & Commercial Banking, Part 1
 
-[Session 15 study questions]({{< baseurl >}}/pages/study-questions#ses15)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 15 study questions" "#ses15" %}}
 
 
 {{< tdclose >}}
@@ -489,7 +490,7 @@ Optional Reading:
 
 Central Banks & Commercial Banking, Part 2
 
-[Session 16 study questions]({{< baseurl >}}/pages/study-questions#ses16)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 16 study questions" "#ses16" %}}
 
 
 {{< tdclose >}}
@@ -510,7 +511,7 @@ Optional Readings:
 
 '[Guide to Stablecoin: Types of Stablecoins & Its Importance](https://masterthecrypto.com/guide-to-stablecoin-types-of-stablecoins/)' Master the Crypto (August 23, 2018)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)‘[Method and System for Linkage of Blockchain-based assets to fiat currency accounts](https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10026082&IDKey=97D3443C00E7%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D2%2526f%3DG%2526l%3D50%2526co1%3DOR%2526d%3DPTXT%2526s1%3Dcryptocurrency%2526s2%3Dblockchain%2526OS%3Dcryptocurrency%252BOR%252Bblockchain%2526RS%3Dcryptocurrency%252BOR%252Bblockchain)’ (PDF - 2.1MB) U.S. Patent Office (July 17, 2018) 
+‘[Method and System for Linkage of Blockchain-based assets to fiat currency accounts](https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10026082&IDKey=97D3443C00E7%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D2%2526f%3DG%2526l%3D50%2526co1%3DOR%2526d%3DPTXT%2526s1%3Dcryptocurrency%2526s2%3Dblockchain%2526OS%3Dcryptocurrency%252BOR%252Bblockchain%2526RS%3Dcryptocurrency%252BOR%252Bblockchain)’ (PDF - 2.1MB) U.S. Patent Office (July 17, 2018) 
 
 
 {{< tdclose >}}
@@ -525,7 +526,7 @@ Optional Readings:
 
 Secondary Markets & Crypto-Exchanges
 
-[Session 17 study questions]({{< baseurl >}}/pages/study-questions#ses17)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 17 study questions" "#ses17" %}}
 
 
 {{< tdclose >}}
@@ -561,7 +562,7 @@ Optional Reading:
 
 A New Approach to Crypto-Exchanges & Payments
 
-[Session 18 study questions]({{< baseurl >}}/pages/study-questions#ses18)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 18 study questions" "#ses18" %}}
 
 
 {{< tdclose >}}
@@ -587,7 +588,7 @@ A New Approach to Crypto-Exchanges & Payments
 
 Primary Markets, ICOs, & Venture Capital, Part 1
 
-[Session 19 study questions]({{< baseurl >}}/pages/study-questions#ses19)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 19 study questions" "#ses19" %}}
 
 
 {{< tdclose >}}
@@ -623,7 +624,7 @@ Optional Reading:
 
 Primiary Markets, ICOs, & Venture Capital, Part 2
 
-[Session 20 study questions]({{< baseurl >}}/pages/study-questions#ses20)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 20 study questions" "#ses20" %}}
 
 
 {{< tdclose >}}
@@ -651,7 +652,7 @@ Primiary Markets, ICOs, & Venture Capital, Part 2
 
 Post Trade Clearing, Settlement, & Processing
 
-[Session 21 study questions]({{< baseurl >}}/pages/study-questions#ses21)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 21 study questions" "#ses21" %}}
 
 
 {{< tdclose >}}
@@ -666,7 +667,7 @@ Post Trade Clearing, Settlement, & Processing
 
 Optional Reading:
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)'[Distributed ledger technology in payments, clearing, and settlement' (PDF)](https://www.federalreserve.gov/econresdata/feds/2016/files/2016095pap.pdf) Mills, et al; Federal Reserve Finance and Economics Discussion Series (2016-095) 
+'[Distributed ledger technology in payments, clearing, and settlement' (PDF)](https://www.federalreserve.gov/econresdata/feds/2016/files/2016095pap.pdf) Mills, et al; Federal Reserve Finance and Economics Discussion Series (2016-095) 
 
 
 {{< tdclose >}}
@@ -681,7 +682,7 @@ Optional Reading:
 
 Trade Finance & Supply Chain
 
-[Session 22 study questions]({{< baseurl >}}/pages/study-questions#ses22)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 22 study questions" "#ses22" %}}
 
 
 {{< tdclose >}}
@@ -709,7 +710,7 @@ Trade Finance & Supply Chain
 
 Digital ID
 
-[Session 23 study questions]({{< baseurl >}}/pages/study-questions#ses23)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 23 study questions" "#ses23" %}}
 
 
 {{< tdclose >}}
@@ -741,7 +742,7 @@ Digital ID
 
 Conclusion
 
-[Session 24 study questions]({{< baseurl >}}/pages/study-questions#ses24)
+{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 24 study questions" "#ses24" %}}
 
 
 {{< tdclose >}}

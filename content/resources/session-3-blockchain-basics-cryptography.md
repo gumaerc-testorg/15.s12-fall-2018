@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 3: Blockchain Basics & Cryptography'
 uid: d2f4d66e-7023-462e-cd5a-3c1395de2872
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 In this lecture, Prof. Gensler, explains the basics of blockchain and covers Bitcoin design features, hash functions, blocker headers, Merkle trees, among other related topics.
+
+
+

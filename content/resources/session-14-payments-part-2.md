@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 14: Payments, Part 2'
 uid: 3c0ad40d-a229-4afd-6b8c-abf9f478b661
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 In this video, Prof. Gensler discusses the lessons that can be drawn from the challenges of blockchain-related payment applications. Other topics include cross-border payments, and permissioned vs. permissionless applications.
+
+
+

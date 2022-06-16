@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 19: Primary Markets, ICOs, & Venture Capital, Part 1'
 uid: f5934cb0-7230-0a60-12be-73d3975f8fd2
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 Prof. Gensler talks about crowdfunding with Initial Coin Offerings (ICOs) as well as the characterstics and evaluation of ICOs.
+
+
+

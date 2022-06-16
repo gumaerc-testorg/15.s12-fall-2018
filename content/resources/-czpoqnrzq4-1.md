@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-s12-blockchain-and-money-fall-2018/56ef3b0328e78c01fc42baea53c56af8_-cZPoqnRZq4.pdf
+file: /courses/15-s12-blockchain-and-money-fall-2018/56ef3b0328e78c01fc42baea53c56af8_-cZPoqnRZq4.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

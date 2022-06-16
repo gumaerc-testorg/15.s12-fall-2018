@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 8: Public Policy'
 uid: 5d02ba2a-2148-0243-bb69-5c6318f2973f
 video_files:
@@ -23,3 +26,6 @@ video_metadata:
 ---
 
 In this session, Prof. Gensler discusses how public policy relates to blockchain technology and crypto finance. The public policy framework guards against illicit activity, provides financial stability, and protects the investing public.
+
+
+

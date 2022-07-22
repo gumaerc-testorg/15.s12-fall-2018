@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: 'This section contains additional readings of interest. '
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: af37cfa9-888d-eb64-b3d1-ccc3bf9644ad
 title: Recommended Books
 uid: ccd36544-8fbc-37f5-5ff7-72394bf639ec

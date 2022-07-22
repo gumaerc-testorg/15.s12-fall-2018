@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 In this video, Prof. Gensler discusses the lessons that can be drawn from the challenges of blockchain-related payment applications. Other topics include cross-border payments, and permissioned vs. permissionless applications.
-
-
 

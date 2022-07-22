@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 In this session, Prof. Gensler discusses how public policy relates to blockchain technology and crypto finance. The public policy framework guards against illicit activity, provides financial stability, and protects the investing public.
-
-
 

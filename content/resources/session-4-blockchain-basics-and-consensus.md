@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 This lecture covers blockchain consensus protocols. Because of the decentralized nature of blockchain technology, it is crucial that consensus protocols are used to require that the nodes on the network agree on the same state of a blockchain.
-
-
 

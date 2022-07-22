@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 Prof. Gensler speaks about identity and access management, how identity management works in a digital age, state projects in India and Estonia, and some blockchain projects in the private sector.
-
-
 

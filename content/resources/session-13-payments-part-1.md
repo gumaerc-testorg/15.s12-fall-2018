@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Prof. Gensler discusses major trends in payment systems, lessons that can be learned from non-blockchain payment innovations, and the challenges and opportunities in current payment system architecture.
 
 **Instructors**: Prof. Gary Gensler & Alin Dragos
-
-
 

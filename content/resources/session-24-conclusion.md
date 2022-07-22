@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 Prof. Gensler gives a summary of the class, touching on money and ledgers, the economics of blockchain technology, financial sector opportunities, crypto finance, and public policy.
-
-
 

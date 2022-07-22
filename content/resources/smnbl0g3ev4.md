@@ -4,6 +4,7 @@ description: ''
 file: /courses/15-s12-blockchain-and-money-fall-2018/194a35ebb9f67200b4d064f38d74519b_sMnBl0g3Ev4.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

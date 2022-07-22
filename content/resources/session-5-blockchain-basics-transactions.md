@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -26,6 +27,4 @@ video_metadata:
 ---
 
 This session covers design featues of blockchain, like hash functions, append-only timestamped logs, and proof-of-work. The professor also covers unspent transcation output (UTXO).
-
-
 

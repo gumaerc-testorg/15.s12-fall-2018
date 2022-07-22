@@ -5,6 +5,7 @@ file: /courses/15-s12-blockchain-and-money-fall-2018/97328a4ed4a67c1cc6837aa294b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection

@@ -1,68 +1,42 @@
 ---
 content_type: page
 description: 'This section details the readings used in each session. '
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: af37cfa9-888d-eb64-b3d1-ccc3bf9644ad
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Topic
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Readings
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Introduction
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 1 study questions" "#ses1" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 1 study questions" "#ses1" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘IMF World Bank Comment’ Gensler, The Banker (September 2018).
 
 ‘[The blockchain catalyst for change](https://voxeu.org/article/blockchain-catalyst-change)’ Vox (July 16, 2018) 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Money, Ledgers & Bitcoin
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 2 study questions" "#ses2" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 2 study questions" "#ses2" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
  ‘[Conflict reigns over the history and origins of money](https://www.sciencenews.org/article/money-ancient-origins-debate-mystery?tgt=nr)’ Science News (July 29, 2018)
 
@@ -76,25 +50,15 @@ Money, Ledgers & Bitcoin
 
 ‘[Bitcoin P2P e-cash paper](https://www.metzdowd.com/pipermail/cryptography/2008-October/014810.html)’ e-mail Nakamoto (October 31, 2008)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Blockchain Basics & Cryptography
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 3 study questions" "#ses3" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 3 study questions" "#ses3" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[Bitcoin: A Peer-to-Peer Electronic Cash System’ (PDF)](https://bitcoin.org/bitcoin.pdf) Nakamoto (October 31, 2008)
 
@@ -102,25 +66,15 @@ Blockchain Basics & Cryptography
 
 '[Blockchain 101 — A Visual Demo](http://blockchain.mit.edu/how-blockchain-works/)' Brownworth, MIT (November 5, 2016)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Blockchain Basics & Consensus
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 4 study questions" "#ses4" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 4 study questions" "#ses4" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[21st Geneva Report on the World Economy - The Impact of Blockchain Technology on Finance: Catalyst for Change](https://voxeu.org/content/impact-blockchain-technology-finance-catalyst-change)’ Chapter 1 (pages 1 – 7); Casey, Crane, Gensler, Johnson, and Narula  (July 2018)
 
@@ -132,54 +86,34 @@ Blockchain Basics & Consensus
 
 Optional Reading:
 
-For those wishing for a technical dive into Bitcoin Scripting Language, one can review '[Script](https://github.com/bitpay/bitcore#bitcore)'  
+For those wishing for a technical dive into Bitcoin Scripting Language, one can review '[Script](https://github.com/bitpay/bitcore#bitcore)'     
 by Bitcore or ['The Best Step-by-Step Bitcoin Script Guide](https://blockgeeks.com/guides/best-bitcoin-script-guide/)' by Blockgeeks.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Blockchain Basics and Transactions, UTXO, and Script Code
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 5 study questions" "#ses5" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 5 study questions" "#ses5" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)’ Narayanan and Clark (August 29, 2017)
 
 '[Making Sense of Cryptoeconomics](https://www.coindesk.com/making-sense-cryptoeconomics)' CoinDesk (August 19, 2017) 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Smart Contracts & DApps
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 6 study questions" "#ses6" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 6 study questions" "#ses6" %}}
 
+{{< tdclose >}}{{< tdopen >}}
 
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-‘[Smart Contracts: 12 Use Cases for Business & Beyond’Chamber of Digital Commerce' (PDF - 5.9MB)](https://digitalchamber.org/wp-content/uploads/2018/02/Smart-Contracts-12-Use-Cases-for-Business-and-Beyond_Chamber-of-Digital-Commerce.pdf) (December 2016)
+‘Smart Contracts: 12 Use Cases for Business & Beyond’ Chamber of Digital Commerce' (December 2016)
 
 ‘[State of the DApps: 5 Observations from Usage Data](https://medium.com/@mccannatron/state-of-the-dapps-5-observations-from-usage-data-april-2018-a3e9da01bc22)’ McCann, Medium (April 2018)
 
@@ -193,25 +127,15 @@ Optional Readings:
 
 '[Blockchain Technology as a Regulatory Technology](https://arxiv.org/abs/1801.02507)' De Filippi & Hassan, Harvard (January 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Technical Challenges
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 7 study questions" "#ses7" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 7 study questions" "#ses7" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[21st Geneva Report on the World Economy -The Impact of Blockchain Technology on Finance: Catalyst for Change](https://voxeu.org/content/impact-blockchain-technology-finance-catalyst-change)’ Chapter 2 -Blockchain technology’s opportunities and challenges (pages 9 –16)
 
@@ -229,25 +153,15 @@ Optional Readings:
 
 ‘[zkLedger: Privacy-Preserving Auditing for Distributed Ledgers](https://www.usenix.org/conference/nsdi18/presentation/narula)’ Narula, Vasquez, & Virza (April 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Public Policy
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 8 study questions" "#ses8" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 8 study questions" "#ses8" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 '[Cryptocurrencies: Oversight of New Assets in the Digital Age' (PDF)](https://docs.house.gov/meetings/AG/AG00/20180718/108562/HHRG-115-AG00-Wstate-GenslerG-20180718.pdf) Gensler (July 18, 2018)
 
@@ -255,25 +169,15 @@ Public Policy
 
 ['Nobel-winning economist: Authorities will bring down 'hammer' on bitcoin](https://www.cnbc.com/2018/07/09/nobel-prize-winning-economist-joseph-stiglitz-criticizes-bitcoin.html)' CNBC (July 9, 2018) 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Permissioned Systems
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 9 study questions" "#ses9" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 9 study questions" "#ses9" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[Enterprises Building Blockchain Confront Early Tech Limitations](https://www.coindesk.com/enterprises-building-blockchain-confront-tech-limitations)’ CoinDesk (March 23, 2018)
 
@@ -285,25 +189,15 @@ Permissioned Systems
 
 '[What is Digital Asset? | Distributed Ledgers for Financial Institutions](https://coincentral.com/digital-asset-holdings/)’ Coin Central (June 22, 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Financial System Challenges & Opportunities
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 10 study questions" "#ses10" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 10 study questions" "#ses10" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 '[Top financial services issues of 2018' (PDF - 1.2MB)](https://www.pwc.com/us/en/financial-services/research-institute/assets/pwc-fsi-top-issues-2018.pdf) PwC Financial Services Institute (December 2017)
 
@@ -315,25 +209,15 @@ Optional Reading:
 
 '[Ten Years After the Crash, We Are Still Living in the World It Brutally Remade](http://nymag.com/intelligencer/2018/08/america-10-years-after-the-financial-crisis.html)' New York Magazine, Daily Intelligencer (August 2018) 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Blockchain Economics
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 11 study questions" "#ses11" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 11 study questions" "#ses11" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
  ‘[Why Bitcoin is and isn't like the Internet](https://joi.ito.com/weblog/2015/01/23/why-bitcoin-is-.html)’ Ito (January 23, 2015)
 
@@ -353,25 +237,15 @@ Optional Readings:
 
 '[The Meaning of Decentralization](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274) 'Buterin, Medium (February 6, 2017)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Assessing Use Cases
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 12 study questions" "#ses12" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 12 study questions" "#ses12" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[21st Geneva Report on the World Economy - The Impact of Blockchain Technology on Finance: Catalyst for Change](https://voxeu.org/content/impact-blockchain-technology-finance-catalyst-change)’ Chapter 2 – A framework for understanding transaction costs and trade-offs (pages 14 –16); Chapter 3 - Blockchain technology and finance (pages 17–30) & Chapter 5 – Broader potential economic impact (pages 51 –55)
 
@@ -381,25 +255,15 @@ Assessing Use Cases
 
 '[The promise of the blockchain technology](https://www.economist.com/technology-quarterly/2018/08/30/the-promise-of-the-blockchain-technology)' Economist (September 1, 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Payments, Part 1
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 13 study questions" "#ses13" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 13 study questions" "#ses13" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[The Federal Reserve Payments Study: 2017 Annual Supplement](https://www.federalreserve.gov/paymentsystems/2017-December-The-Federal-Reserve-Payments-Study.htm)’ Federal Reserve
 
@@ -413,55 +277,35 @@ Payments, Part 1
 
 ‘[Cross-border retail payments](https://www.bis.org/cpmi/publ/d173.pdf)’ (PDF - 1.2MB) Bank of International Settlements Committee on Payments and Market Infrastructures (February 2018) (Required: page 6 –15, sections 2 -2.3.5 & Box B;and page 39, Annex 3)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Payments, Part 2
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 14 study questions" "#ses14" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 14 study questions" "#ses14" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 '[How Blockchain Can Finally Fulfill Its Promise in Global Payments](https://www.coindesk.com/blockchain-can-finally-fulfill-promise-global-payments)'  CoinDesk (June 9, 2018)
 
-'[Extending the World of Payments to Blockchain' (PDF - 4.4MB)](https://www.aciworldwide.com/-/media/files/collateral/trends/extending-the-world-of-payments-to-blockchain-tl-us.pdf) ACI Worldwide (2017)
+'[Extending the World of Payments to Blockchain' (PDF - 4.4MB)](https://dokumen.tips/documents/extending-the-world-of-payments-to-blockchain.html?page=1) ACI Worldwide (2017)
 
 '[The Payment Industry is About to Be Struck by Lightning: Expert Take](https://cointelegraph.com/news/the-payment-industry-is-about-to-be-struck-by-lightning-expert-take)' Coin Telegraph (March 21, 2018)
 
-'[Why Stripe Gave Up on Bitcoin and Blockchain Payments](https://fortune.com/2018/07/17/stripe-blockchain/)' Fortune (July 17, 2018)
+'[Why Stripe Gave Up on Bitcoin and Blockchain Payments](https://www.yahoo.com/news/why-stripe-gave-bitcoin-blockchain-182750407.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAH5hsZPnMwpAEn67PTpKZ1amgjZBpk3baYd5Fcvi18N-kd8LpmUL2_pY6yVOoK0qDxSWBnG1y2zk39om-rsdW--WbPUvOwinfjJoU4oMNY4Khpqq6HSB8DWAWeD1yhTnQfWNft4294KlwwHYJ0tWM0A1OOE9AsSbyFrFACPImSi)' Fortune (July 17, 2018)
 
 '[How XRP Fits into Ripple's Payments Products Explained](https://www.coindesk.com/xrp-fits-ripples-payments-products-explained)' CoinDesk (March 4, 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Central Banks & Commercial Banking, Part 1
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 15 study questions" "#ses15" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 15 study questions" "#ses15" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 [‘Central bank digital currencies’ (PDF - 1.2MB)](https://www.bis.org/cpmi/publ/d174.pdf) Bank for International Settlements, Committee on Payments and Market Infrastructures (March 2018)
 
@@ -477,25 +321,15 @@ Optional Reading:
 
 '[Bitcoin, DLT and Bank Ledgers: A Central Banker's View](https://www.coindesk.com/bitcoin-dlt-bank-ledgers-central-bankers-view)' Qian, People’s Bank of Central; CoinDesk (June 19, 2018) 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Central Banks & Commercial Banking, Part 2
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 16 study questions" "#ses16" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 16 study questions" "#ses16" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[The Riksbank e-krona project Action plan for 2018’ (PDF)](https://www.riksbank.se/globalassets/media/rapporter/e-krona/2017/handlingsplan_ekrona_171221_eng.pdf) Sveriges Riksbank (December 2017)
 
@@ -513,25 +347,15 @@ Optional Readings:
 
 ‘[Method and System for Linkage of Blockchain-based assets to fiat currency accounts](https://pdfpiw.uspto.gov/.piw?PageNum=0&docid=10026082&IDKey=97D3443C00E7%0D%0A&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO2%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r%3D2%2526f%3DG%2526l%3D50%2526co1%3DOR%2526d%3DPTXT%2526s1%3Dcryptocurrency%2526s2%3Dblockchain%2526OS%3Dcryptocurrency%252BOR%252Bblockchain%2526RS%3Dcryptocurrency%252BOR%252Bblockchain)’ (PDF - 2.1MB) U.S. Patent Office (July 17, 2018) 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Secondary Markets & Crypto-Exchanges
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 17 study questions" "#ses17" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 17 study questions" "#ses17" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[Move deliberately, fix things: How Coinbase is building a cryptocurrency empire](https://www.washingtonpost.com/business/economy/move-deliberately-fix-things-how-coinbase-is-building-a-cryptocurrency-empire/2018/05/17/623d950c-587c-11e8-858f-12becb4d6067_story.html?utm_term=.a18c45536e2b)’ Washington Post (May 17, 2018)
 
@@ -549,25 +373,15 @@ Optional Reading:
 
 ['Guide to Decentralized Exchanges: Comparison of Popular DEXs](https://masterthecrypto.com/decentralized-exchanges-guide-popular-dex/)' Master the Crypto (August 25, 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 A New Approach to Crypto-Exchanges & Payments
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 18 study questions" "#ses18" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 18 study questions" "#ses18" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[Intercontinental Exchange Announces Bakkt, a Global Platform and Ecosystem for Digital Assets](https://ir.theice.com/press/press-releases/all-categories/2018/08-03-2018-133022149)’ ICE (August 3, 2018)
 
@@ -575,25 +389,15 @@ A New Approach to Crypto-Exchanges & Payments
 
 ‘[Starbucks App Leads Mobile Payment Competitors](https://www.emarketer.com/newsroom/index.php/starbucks-app-leads-mobile-payment-competitors/)’ eMarketer (May 22, 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Primary Markets, ICOs, & Venture Capital, Part 1
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 19 study questions" "#ses19" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 19 study questions" "#ses19" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[All-Time Cumulative ICO Funding](https://www.coindesk.com/)’ CoinDesk (as of August 30, 2018)
 
@@ -601,7 +405,7 @@ Primary Markets, ICOs, & Venture Capital, Part 1
 
 '[10 keys for evaluating Initial Coin Offering (ICO) investments](https://cryptopotato.com/10-keys-evaluating-initial-coin-offering-ico-investments/)' Crypto Potato (April 26, 2018)
 
-‘[Nearly Half of 2017 Cryptocurrency ‘ICO’ Projects Have Already Died](https://fortune.com/2018/02/25/cryptocurrency-ico-collapse/)’ Forbes (February 25, 2018)
+‘[Nearly Half of 2017 Cryptocurrency ‘ICO’ Projects Have Already Died](https://www.yahoo.com/news/nearly-half-2017-cryptocurrency-apos-194143739.html)’ Forbes (February 25, 2018)
 
 ‘[The Rise of the ICO, and What It Could Mean for Venture Capital](https://www.visualcapitalist.com/ico-crypto-venture-capital/)’ Visual Capitalist (May 3, 2018)
 
@@ -611,25 +415,15 @@ Optional Reading:
 
 'J. R. Willett: How I Invented the First ICO' RadarZero (March 20, 2018) 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Primiary Markets, ICOs, & Venture Capital, Part 2
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 20 study questions" "#ses20" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 20 study questions" "#ses20" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[Digital Asset Transactions: When Howey Met Gary (Plastic)](https://www.sec.gov/news/speech/speech-hinman-061418)’ Hinman, SEC (June 14, 2018)
 
@@ -639,25 +433,15 @@ Primiary Markets, ICOs, & Venture Capital, Part 2
 
 ‘[Hundreds of Bitcoin Wannabes Show Hallmarks of Fraud](https://www.wsj.com/articles/buyer-beware-hundreds-of-bitcoin-wannabes-show-hallmarks-of-fraud-1526573115)’ Wall Street Journal (May 17, 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Post Trade Clearing, Settlement, & Processing
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 21 study questions" "#ses21" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 21 study questions" "#ses21" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[Blockchain could save investment banks up to $12 billion a year: Accenture](https://www.reuters.com/article/us-banks-blockchain-accenture-idUSKBN1511OU)’ Reuters (January 17, 2017)
 
@@ -669,25 +453,15 @@ Optional Reading:
 
 '[Distributed ledger technology in payments, clearing, and settlement' (PDF)](https://www.federalreserve.gov/econresdata/feds/2016/files/2016095pap.pdf) Mills, et al; Federal Reserve Finance and Economics Discussion Series (2016-095) 
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Trade Finance & Supply Chain
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 22 study questions" "#ses22" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 22 study questions" "#ses22" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ‘[Hong Kong, Singapore to link up trade finance blockchain platforms](https://www.reuters.com/article/us-hongkong-singapore-fintech/hong-kong-singapore-to-link-up-trade-finance-blockchain-platforms-idUSKBN1CU0JY)’ Reuters (October 25, 2017)
 
@@ -697,25 +471,15 @@ Trade Finance & Supply Chain
 
 ‘[De Beers turns to blockchain to guarantee diamond purity](https://www.reuters.com/article/us-anglo-debeers-blockchain/de-beers-turns-to-blockchain-to-guarantee-diamond-purity-idUSKBN1F51HV)’ Reuters (January 16, 2018)
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Digital ID
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 23 study questions" "#ses23" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 23 study questions" "#ses23" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ['Self-sovereign identity: Why blockchain?](https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/)' IBM (June 13, 2018)
 
@@ -729,27 +493,14 @@ Digital ID
 
 ‘[Digital Diploma Debuts at MIT](http://news.mit.edu/2017/mit-debuts-secure-digital-diploma-using-bitcoin-blockchain-technology-1017)’ MIT News (October 17, 2017)  
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24 
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Conclusion
 
-{{% resource_link 18867722-56dc-36dc-db7b-d0b90e746937 "Session 24 study questions" "#ses24" %}}
+{{% resource_link "18867722-56dc-36dc-db7b-d0b90e746937" "Session 24 study questions" "#ses24" %}}
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}

@@ -1,0 +1,11 @@
+---
+backup_url: ''
+content_type: external-resource
+external_url: https://www.yahoo.com/news/why-stripe-gave-bitcoin-blockchain-182750407.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAH5hsZPnMwpAEn67PTpKZ1amgjZBpk3baYd5Fcvi18N-kd8LpmUL2_pY6yVOoK0qDxSWBnG1y2zk39om-rsdW--WbPUvOwinfjJoU4oMNY4Khpqq6HSB8DWAWeD1yhTnQfWNft4294KlwwHYJ0tWM0A1OOE9AsSbyFrFACPImSi
+has_external_licence_warning: true
+has_external_license_warning: true
+is_broken: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+title: Why Stripe Gave Up on Bitcoin and Blockchain Payments
+uid: cb06930a-63b4-430e-b577-4a756953022e
+---

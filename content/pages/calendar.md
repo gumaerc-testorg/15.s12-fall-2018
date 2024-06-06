@@ -52,7 +52,7 @@ Blockchain Basics and Transactions, UTXO, and Script Code
 
 Smart Contracts and DApps
 
-Guest Lecturer: {{% resource_link "eac2a68a-c9de-4bb9-919c-f4efafb3c215" "Prof. Lawrence Lessig" %}}, Harvard Law School
+Guest Lecturer: [Prof. Lawrence Lessig](https://hls.harvard.edu/faculty/directory/10519/Lessig), Harvard Law School
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -106,7 +106,7 @@ Assessing Use Cases
 
 Payments, Part 1
 
-Guest Lecturer: {{% resource_link "9f481b09-adcd-4739-bcad-e4e04f3a5e6f" "Alin Dragos" %}}, MIT Digital Currency Initiatve
+Guest Lecturer: [Alin Dragos](https://www.media.mit.edu/people/adragos/overview/), MIT Digital Currency Initiatve
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -122,7 +122,7 @@ Payments, Part 2
 
 Central Banks and Commercial Banking, Part 1
 
-Guest Lecturer: {{% resource_link "e6713016-f7f9-4677-afc5-c22226d549e9" "Robleh Ali" %}}, MIT Digital Currency Initiative
+Guest Lecturer: [Robleh Ali](https://www.media.mit.edu/people/robleh/overview/), MIT Digital Currency Initiative
 
 {{< tdclose >}}{{< tdopen >}}
  

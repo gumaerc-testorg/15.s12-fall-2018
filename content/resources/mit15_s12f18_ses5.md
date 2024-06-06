@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s12-blockchain-and-money-fall-2018/51c129201af1dc294b6488b670cac3ce_MIT15_S12F18_ses5.pdf
+file_size: 1380900
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

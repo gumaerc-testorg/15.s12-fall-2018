@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/15-s12-blockchain-and-money-fall-2018/bdf3542d270bb6356bdb4a1300432b5b_w7HDA8gUbpQ.pdf
+file_size: 104129
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

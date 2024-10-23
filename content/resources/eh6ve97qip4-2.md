@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-s12-blockchain-and-money-fall-2018/20bc3a67ada855098f6514ce837a6b0f_EH6vE97qIP4.vtt
+file: /ol-ocw-studio-app/courses/15-s12-blockchain-and-money-fall-2018/20bc3a67ada855098f6514ce837a6b0f_EH6vE97qIP4.vtt
 file_size: 92908
 file_type: application/x-subrip
 learning_resource_types: []

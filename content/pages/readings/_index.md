@@ -82,11 +82,11 @@ Blockchain Basics & Consensus
 
 ‘{{% resource_link "404c13ac-0e6c-4c0c-8df6-cb719a07d1ae" "The Byzantine Generals Problem" %}}’ Lamport, Shostak, & Pease; ACM Transactions on Programming Languages and Systems (TOPLAS), 4(3), (July 1982) (required 382-387)
 
-‘{{% resource_link "f6eed926-f38a-4dd7-846d-aa4c06f7694f" "A (Short) Guide to Blockchain Consensus Protocols" %}}’ CoinDesk (March 4, 2017)
+‘[A (Short) Guide to Blockchain Consensus Protocols](https://www.coindesk.com/markets/2017/03/04/a-short-guide-to-blockchain-consensus-protocols)’ CoinDesk (March 4, 2017)
 
 Optional Reading:
 
-For those wishing for a technical dive into Bitcoin Scripting Language, one can review '{{% resource_link "4e21345c-063b-41cd-9986-5f2a3b2e27c1" "Script" %}}'       
+For those wishing for a technical dive into Bitcoin Scripting Language, one can review '{{% resource_link "4e21345c-063b-41cd-9986-5f2a3b2e27c1" "Script" %}}'          
 by Bitcore or {{% resource_link "16d3fcaa-8df7-40f6-be56-b77f99b8f895" "'The Best Step-by-Step Bitcoin Script Guide" %}}' by Blockgeeks.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -101,7 +101,7 @@ Blockchain Basics and Transactions, UTXO, and Script Code
 
 ‘{{% resource_link "8c433a21-484b-45ad-ac7b-5eaf7f3fc52a" "Bitcoin's Academic Pedigree" %}}’ Narayanan and Clark (August 29, 2017)
 
-'{{% resource_link "75cf9584-83fe-44d3-9b5f-e92fddb3a573" "Making Sense of Cryptoeconomics" %}}' CoinDesk (August 19, 2017) 
+'[Making Sense of Cryptoeconomics](https://www.coindesk.com/markets/2017/08/19/making-sense-of-cryptoeconomics)' CoinDesk (August 19, 2017) 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -179,7 +179,7 @@ Permissioned Systems
 
 {{< tdclose >}}{{< tdopen >}}
 
-‘{{% resource_link "d8d843ab-291c-43d6-887c-3bf046616237" "Enterprises Building Blockchain Confront Early Tech Limitations" %}}’ CoinDesk (March 23, 2018)
+‘[Enterprises Building Blockchain Confront Early Tech Limitations](https://www.coindesk.com/markets/2018/03/23/enterprises-building-blockchain-confront-early-tech-limitations)’ CoinDesk (March 23, 2018)
 
 '{{% resource_link "b6d268a3-3625-44b6-8337-28b3d0301851" "Technical difference between Ethereum, Hyperledger fabric and R3 Corda" %}}’ Nandi, Medium (March 16, 2018)
 
@@ -287,7 +287,7 @@ Payments, Part 2
 
 {{< tdclose >}}{{< tdopen >}}
 
-'{{% resource_link "d53870d4-251f-4a3a-ab02-7e000e0a3247" "How Blockchain Can Finally Fulfill Its Promise in Global Payments" %}}'  CoinDesk (June 9, 2018)
+'[How Blockchain Can Finally Fulfill Its Promise in Global Payments](https://www.coindesk.com/markets/2018/06/09/how-blockchain-can-finally-fulfill-its-promise-in-global-payments)'  CoinDesk (June 9, 2018)
 
 '{{% resource_link "f8d6824b-6956-4791-bd9a-789c24dee314" "Extending the World of Payments to Blockchain' (PDF - 4.4MB)" %}} ACI Worldwide (2017)
 
@@ -295,7 +295,7 @@ Payments, Part 2
 
 '{{% resource_link "b8930f12-26d7-4c3b-bf9c-ee4a6e28d32e" "Why Stripe Gave Up on Bitcoin and Blockchain Payments" %}}' Fortune (July 17, 2018)
 
-'{{% resource_link "8771a07e-eb1c-4198-96ed-4edf99078278" "How XRP Fits into Ripple's Payments Products Explained" %}}' CoinDesk (March 4, 2018)
+'[How XRP Fits into Ripple's Payments Products Explained](https://www.coindesk.com/markets/2018/03/04/how-xrp-fits-into-ripples-payments-products-explained)' CoinDesk (March 4, 2018)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15 
@@ -319,7 +319,7 @@ Central Banks & Commercial Banking, Part 1
 
 Optional Reading:
 
-'{{% resource_link "fe969ad8-a655-435a-b894-8f2b0097fe0f" "Bitcoin, DLT and Bank Ledgers: A Central Banker's View" %}}' Qian, People’s Bank of Central; CoinDesk (June 19, 2018) 
+'[Bitcoin, DLT and Bank Ledgers: A Central Banker's View](https://www.coindesk.com/markets/2018/06/19/bitcoin-dlt-and-bank-ledgers-a-central-bankers-view)' Qian, People’s Bank of Central; CoinDesk (June 19, 2018) 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16 

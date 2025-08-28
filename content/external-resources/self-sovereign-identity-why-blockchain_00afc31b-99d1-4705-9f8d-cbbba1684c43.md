@@ -1,6 +1,6 @@
 ---
 content_type: external-resource
-external_url: https://www.ibm.com/blogs/blockchain/2018/06/self-sovereign-identity-why-blockchain/
+external_url: https://research.ibm.com/projects/self-sovereign-identity
 has_external_license_warning: true
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken

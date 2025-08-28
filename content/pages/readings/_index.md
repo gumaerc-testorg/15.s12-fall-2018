@@ -86,8 +86,8 @@ Blockchain Basics & Consensus
 
 Optional Reading:
 
-For those wishing for a technical dive into Bitcoin Scripting Language, one can review '{{% resource_link "4e21345c-063b-41cd-9986-5f2a3b2e27c1" "Script" %}}'          
-by Bitcore or {{% resource_link "16d3fcaa-8df7-40f6-be56-b77f99b8f895" "'The Best Step-by-Step Bitcoin Script Guide" %}}' by Blockgeeks.
+For those wishing for a technical dive into Bitcoin Scripting Language, one can review '{{% resource_link "4e21345c-063b-41cd-9986-5f2a3b2e27c1" "Script" %}}'           
+by Bitcore or 'The Best Step-by-Step Bitcoin Script Guide' by Blockgeeks.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5

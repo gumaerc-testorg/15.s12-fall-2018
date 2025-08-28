@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/15-s12-blockchain-and-money-fall-2018/f09530bb111537f85c4d48f4229cb1f3_MIT15_S12F18_ses7.pdf
+file: /ol-ocw-studio-app/courses/15-s12-blockchain-and-money-fall-2018/f09530bb111537f85c4d48f4229cb1f3_MIT15_S12F18_ses7.pdf
 file_size: 962405
 file_type: application/pdf
 image_metadata:
